@@ -1,7 +1,7 @@
 # Snake
 Java project. Home work is to make the game Snake. 
 <br/>
-Arrows for moving<br/>
+<b>Arrows are for moving</b><br/>
 <b>A</b> - Show/Hide aim the snake<br/> 
 <b>L</b> - Show/Hide squares of the field<br/> 
 <b>B</b> - Add/Remove border<br/>
